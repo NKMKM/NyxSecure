@@ -37,26 +37,6 @@ NyxSecure is a concept cybersecurity platform interface designed for the future 
 
 ---
 
-## 📁 Project Structure
-
-```
-components/
-├── ui/
-│   ├── SecurityCard.tsx         # Suite product card (glassmorphic)
-│   └── ParticleBackground.tsx   # Floating particle effects
-├── Hero.tsx                     # Hero tagline + animation
-├── DashboardPreview.tsx         # Mockup of live dashboard
-├── ProductSuite.tsx             # Endpoint / Cloud / Identity modules
-├── UseCases.tsx                 # Business / Enterprise / Gov blocks
-├── ContactForm.tsx              # Elegant dark form with steps
-├── Footer.tsx
-App.tsx
-index.css
-tailwind.config.js
-```
-
----
-
 ## 🚀 Getting Started
 
 ```bash
